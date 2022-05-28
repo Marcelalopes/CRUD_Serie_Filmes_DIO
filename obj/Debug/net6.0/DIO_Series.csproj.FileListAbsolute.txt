@@ -1,0 +1,15 @@
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\bin\Debug\net6.0\DIO_Series.exe
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\bin\Debug\net6.0\DIO_Series.deps.json
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\bin\Debug\net6.0\DIO_Series.runtimeconfig.json
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\bin\Debug\net6.0\DIO_Series.dll
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\bin\Debug\net6.0\DIO_Series.pdb
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.csproj.AssemblyReference.cache
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.AssemblyInfoInputs.cache
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.AssemblyInfo.cs
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.csproj.CoreCompileInputs.cache
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.dll
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\refint\DIO_Series.dll
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.pdb
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\DIO_Series.genruntimeconfig.cache
+E:\Arquivos Marcela\Projetos\C#\DIO_Series\obj\Debug\net6.0\ref\DIO_Series.dll
